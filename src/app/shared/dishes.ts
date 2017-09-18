@@ -8,7 +8,7 @@ export const DISHES: Dish[] = [
         label: 'Hot',
         price: '4.99',
         description: 'A unique combination of Indian Uthappam (pancake) and Italian pizza, topped with Cerignola olives, ripe vine cherry tomatoes, Vidalia onion, Guntur chillies and Buffalo Paneer.',
-        comments: [ 
+        comments: [
             {
                 rating: 5,
                 comment: "Imagine all the eatables, living in conFusion!",
@@ -161,4 +161,4 @@ export const DISHES: Dish[] = [
             }
         ]
     }
-];
+]; 
